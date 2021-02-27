@@ -10,6 +10,12 @@ This repository serves as a public feature and issue tracker for these extension
 | [PullRequestUtils](https://marketplace.visualstudio.com/items?itemName=joachimdalen.pull-request-utils) | ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/joachimdalen.pull-request-utils?style=flat-square) | ![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/joachimdalen.pull-request-utils?style=flat-square) | ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/joachimdalen.pull-request-utils?style=flat-square) | ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/joachimdalen.pull-request-utils?style=flat-square) |
 | [GitGuard](https://marketplace.visualstudio.com/items?itemName=joachimdalen.gitguard)                   | ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/joachimdalen.gitguard?style=flat-square)           | ![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/joachimdalen.gitguard?style=flat-square)           | ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/joachimdalen.gitguard?style=flat-square)           | ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/joachimdalen.gitguard?style=flat-square)           |
 
+## Status on open sourcing
+
+I decided to prioritize refacotoring, cleanup, documentation and test improvements before open sourcing the extensions listed above. Currently I do not have a timeframe for this, but it is in progress. 
+
+These things could be done while it is open source, but most of the extensions were thrown together in a hurry because I needed them there and then. At the current state, they do not represent how I like to present my code and that I want to fix before releasing the source.
+
 # 🐞 Reporting bugs
 
 When reporting bugs, please use the template provided and try to be as descriptive as possible about the issue at hand. If possible, provide information that can help me reproduce the issue.
