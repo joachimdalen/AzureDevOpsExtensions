@@ -16,6 +16,8 @@ I decided to prioritize refacotoring, cleanup, documentation and test improvemen
 
 These things could be done while it is open source, but most of the extensions were thrown together in a hurry because I needed them there and then. At the current state, they do not represent how I like to present my code and that I want to fix before releasing the source.
 
+This issue tracker will be migrated to individual repositories under the organization [DevOps Extensions](https://github.com/devops-extensions) when ready.
+
 # 🐞 Reporting bugs
 
 When reporting bugs, please use the template provided and try to be as descriptive as possible about the issue at hand. If possible, provide information that can help me reproduce the issue.
